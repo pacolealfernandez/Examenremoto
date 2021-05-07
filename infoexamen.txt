@@ -1,0 +1,58 @@
+* commit 3900af3046addf72eb525c845832ec6baa400f26 (HEAD -> master, pacolealfernandez/master, Rama_ejercicio2)
+| Author: pacolealfernandez <pacolealfernandez@gmail.com>
+| Date:   Fri May 7 10:35:01 2021 +0200
+| 
+|     scriptej2
+| 
+* commit dd0528b8272e36b44ddcbaa821f17fa80d711986
+| Author: pacolealfernandez <pacolealfernandez@gmail.com>
+| Date:   Fri May 7 10:34:01 2021 +0200
+| 
+|     solej2
+| 
+* commit e067d938c1ff29ec9fa6ef5f805870c3bacf5200
+| Author: pacolealfernandez <pacolealfernandez@gmail.com>
+| Date:   Fri May 7 10:32:22 2021 +0200
+| 
+|     ej2 v2
+| 
+* commit e798a771a9a8c2d0843bcb536399458fb67478bc
+| Author: pacolealfernandez <pacolealfernandez@gmail.com>
+| Date:   Fri May 7 10:31:39 2021 +0200
+| 
+|     ej2 v1
+| 
+* commit 8ecae941b3b78e20f36b686296d8ae93118ab506
+| Author: pacolealfernandez <pacolealfernandez@gmail.com>
+| Date:   Fri May 7 10:29:54 2021 +0200
+| 
+|     foto scrip
+| 
+* commit a5a5e413cd50e1b2ded5f41d4623f2b678784ba9
+| Author: pacolealfernandez <pacolealfernandez@gmail.com>
+| Date:   Fri May 7 10:28:48 2021 +0200
+| 
+|     foto sol
+| 
+* commit b7703d87f8774221146423f903b86116926b65df
+| Author: pacolealfernandez <pacolealfernandez@gmail.com>
+| Date:   Fri May 7 10:27:18 2021 +0200
+| 
+|     v2 ej
+| 
+* commit caea9e2d08761bbf2cece801e496637efce6142e
+  Author: pacolealfernandez <pacolealfernandez@gmail.com>
+  Date:   Fri May 7 10:26:44 2021 +0200
+  
+      v1
+3900af3 HEAD@{0}: merge Rama_ejercicio2: Fast-forward
+8ecae94 HEAD@{1}: checkout: moving from Rama_ejercicio2 to master
+3900af3 HEAD@{2}: commit: scriptej2
+dd0528b HEAD@{3}: commit: solej2
+e067d93 HEAD@{4}: commit: ej2 v2
+e798a77 HEAD@{5}: commit: ej2 v1
+8ecae94 HEAD@{6}: checkout: moving from master to Rama_ejercicio2
+8ecae94 HEAD@{7}: commit: foto scrip
+a5a5e41 HEAD@{8}: commit: foto sol
+b7703d8 HEAD@{9}: commit: v2 ej
+caea9e2 HEAD@{10}: commit (initial): v1
